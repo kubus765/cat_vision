@@ -6,3 +6,11 @@ Simple app that changes hue and saturation to be as close as possible to a cat v
 - Works with JPG and PNG
 - Takes a little while to process (be patient)
 - Max image size 4000x4000
+
+
+## To Do:
+
+- Dog vision config (mostly will be the same)
+- Better preview (right now it's as big as the image, that has to do with a bug that the image is saved according to the preview's size)
+- Arrange the GUI better
+- ???
