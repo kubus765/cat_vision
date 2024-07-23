@@ -1,6 +1,6 @@
 # Cat Vision Converter
 
-App that converts images hue and saturation to be as close as possible to a cat color vision spectrum. 
+Simple app that changes hue and saturation to be as close as possible to a cat vision. I've made one because I didn't find any on the web
 
 - Config for a cat color vision spectrum included (loads automatically)
 - Works with JPG and PNG
