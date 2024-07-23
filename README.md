@@ -4,8 +4,9 @@
 
 Simple app that changes hue and saturation to be as close as possible to a cat vision. I've made one because I didn't find any on the web
 
-![alt text](https://github.com/kubus765/cat_vision/blob/main/image1.jpg?raw=true)
-![alt text](https://github.com/kubus765/cat_vision/blob/main/image2.jpg?raw=true)
+## Preview:
+![Before](https://github.com/kubus765/cat_vision/blob/main/image1.jpg?raw=true)
+![After](https://github.com/kubus765/cat_vision/blob/main/image2.jpg?raw=true)
 
 - Doesn't support night vision (obviously)
 - Config for a cat color vision spectrum included (loads automatically)
