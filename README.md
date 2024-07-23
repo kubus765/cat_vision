@@ -2,7 +2,8 @@
 
 
 
-Simple app that changes hue and saturation to be as close as possible to a cat vision. I've made one because I didn't find any on the web
+Simple app that changes hue and saturation to be as close as possible to a cat vision. I've made one because I didn't find any on the web.
+Keep in mind that cats are near-sighted. This is just a color correction/filter.
 
 ## Preview:
 ### Before:
